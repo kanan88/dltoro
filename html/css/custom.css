@@ -1,3 +1,7 @@
 /*===================================== 
-YOU CAN WRIGHT CUSTOME CSS 
+YOU CAN WRIGHT CUSTOM CSS
 ======================================*/
+
+.logo-header-inner img {
+    height: 70px;
+}
